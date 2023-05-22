@@ -1,0 +1,4 @@
+Input float ‘h’ total hours worked on a day
+input float ‘r’ rate of pay per hours
+w = h*r
+print wage ‘w’
